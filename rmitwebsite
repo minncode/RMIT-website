@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="RMIT_banner.png" style="width:100%" alt="RMIT_banner">
+    <h1>RMIT University</h1>
+    <p><b>One of Australia’s original educational institutions founded in 1887, RMIT University now enrols over 96,000 students each year, including more than 19,000 at postgraduate <br>level.</b></p>
+    <p><b>Our rankings</b></p>
+    <ul>
+        <li><b>5-Star QS ranking for excellence in higher education (QS World University Rankings 2015-2021)</b></li>
+        <li><b>206th globally and 14th highest ranked university in Australia (QS World University Rankings 2022)</b></li>
+        <li><b>3rd globally in the 2021 Times Higher Education Impact Rankings.</b></li>
+        <li><b>8th in the world and 5th in Australia among universities less than 50 years old (QS Top 50 Under 50 index 2021)</b></li>
+      </ul>
+    <h1>Our Locations</h1>
+    <ul>
+        <li><b>Australia</b></li>
+        <ul style="list-style-type:circle;">
+            <li><b>Melbourne city campus</b></li>
+            <li><b>Bundoora campus</b></li>
+            <li><b>Brunswick campus</b></li>
+          </ul> 
+        <li><b>Vietnam</b></li>
+        <ul style="list-style-type:circle;">
+            <li><b>Saigon South campus</b></li>
+            <li><b>Hanoi campus</b></li>
+          </ul> 
+        <li><b>Spain</b></li>
+        <ul style="list-style-type:circle;">
+            <li><b>Barcelona campus</b></li>
+          </ul> 
+      </ul>
+      <h1>Our Students</h1>
+      <p style="background-color:rgb(0,0,84)">Our Students
+        <b>What RMIT student will you be? Are you a high achiever motivated by grades or an <br>explorer who loves adventure?</b></p>
+        <p style="color:rgb(230, 30, 42);"><ins><b>Find out more ></b></ins></p>
+        <img src="RMIT_student.jpeg" style="width:50%" alt="RMIT_student">
+    <h1>Want to know more about RMIT? Join our next Information Sessions</h1>
+    <style>
+        table, th, td {
+          border: 1px solid rgb(256,256,256);
+          border-collapse: collapse;
+        }
+        tr:nth-child(even) {
+          background-color:rgb(250, 200, 0);
+        }
+        </style>
+            <table style="width:65%">
+            <style>
+        th:nth-child(even) {
+          background-color:rgb(230, 30, 42);
+        }
+        </style>
+        <table style="width:67%">
+            <tr>
+              <th>Time</th>
+              <th>Location</th>
+              <th>Address</th>
+            </tr>
+            <tr>
+              <td><b>8:30 - 10:00 January 16, 2023</b></td>
+              <td><b>Saigon South Campus, Room 2.4.02</b></td>
+              <td><b>702 Nguyen Van Linh, District 7, Ho Chi Minh City</b></td>
+            </tr>
+            <tr>
+              <td><b>8:30 - 10:00 January 16, 2023</b></td>
+              <td><b>Hanoi campus, Room 1.10.001</b></td>
+              <td><b>Handi Resco Building, 521 Kim Ma, Ba Dinh District, Hanoi</b></td>
+            </tr>
+          </table>
+          <br></br>
+    <center><img src="RMIT_logo.png" alt="RMIT_logo"></center>
+</body>
+</html>
